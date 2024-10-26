@@ -1,3 +1,8 @@
+streamlit
+pandas
+numpy
+joblib
+
 absl-py==2.1.0
 
 appdirs==1.4.4
@@ -80,7 +85,4 @@ ultralytics-thop==2.0.5
 
 wheel==0.43.0
 
-streamlit
-pandas
-numpy
-joblib
+
