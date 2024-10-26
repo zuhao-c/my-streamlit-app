@@ -48,7 +48,7 @@ protobuf==3.20.3
 
 pyasn1-modules==0.2.8
 
-pycurl==7.45.2
+# pycurl==7.45.2
 
 pyls-spyder==0.4.0
 
