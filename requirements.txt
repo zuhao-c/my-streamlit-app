@@ -1,7 +1,9 @@
-streamlit
-pandas
-numpy
-joblib
+streamlit==1.17.0
+pandas==2.0.1      
+numpy==1.23.5
+
+joblib>=1.2.0
+
 
 absl-py==2.1.0
 
